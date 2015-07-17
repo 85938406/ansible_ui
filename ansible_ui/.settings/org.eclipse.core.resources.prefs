@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//core/auth/backend.py=utf-8
+encoding//core/settings.py=utf-8
+encoding//core/wsgi.py=utf-8
+encoding/<project>=UTF-8
